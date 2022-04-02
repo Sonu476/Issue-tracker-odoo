@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+         <!-- Sequences for hospital.patient -->
+        <record id="issue1" model="manage.issue">
+            <field name="issue_name">Error while downloading the data</field>
+        </record>
+
+
+
+    </data>
+</odoo>

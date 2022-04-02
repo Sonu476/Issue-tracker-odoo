@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_menu_bugfix_root,access.manage.issue,model_manage_issue,,1,1,1,1
+
+access_menu_resolve_issue,access.resolve.issue,model_resolve_issue,,1,1,1,1
